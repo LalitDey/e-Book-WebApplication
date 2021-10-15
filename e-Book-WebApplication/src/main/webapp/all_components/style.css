@@ -1,0 +1,75 @@
+.bg-custom{
+	background-color: #3949ab;
+}
+.navbar .nav-item:hover .nav-link{
+	background-color: #cee8ce;
+	color:#3949ab;
+	border-radius: 12px;
+}
+.brandcolor{
+	color:#00ff80;
+}
+
+
+label:hover {
+	cursor: pointer!important;
+}
+.back-img {
+	background-image: url("../image/Essential-Books.jpg");
+	height: 50vh;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.crd-hover:hover {
+	background-color: #B1F07C;
+	cursor: pointer;
+}
+
+.back-heading
+{
+	color:#6eff00;
+	background-color: black;
+	font-size: 25px;
+/*	border: none; */
+	border-radius: 10px;
+
+}
+.sub-heading{
+	font-size: 15px;
+}
+.price-tag{
+	color: white !important
+}
+.price-tag:hover{
+	cursor:default !important;
+}
+.index-bg{
+	background-image: url("../image/index.jpg");
+	
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.login-bg{
+	background-image: url("../image/login.jpg");
+	height:75vh;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.register-bg{
+	margin:-20px;
+	background-image: url("../image/register.jpg");
+	height:105vh;
+	width: 102vw;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+}
+.labelOfCartPage{
+	font-weight:bold;
+	color:#007bff;
+}

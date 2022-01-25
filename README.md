@@ -1,5 +1,5 @@
 # e-Book-WebApplication
-Thhis is the a application for my college project which deals with online transaction like online book selling and buying with all crud operations appication and searching operation is 
+This is the a application for my college project which deals with online transaction like online book selling and buying with all crud operations appication and searching operation is 
 work.
 
 Software Requirements ::
@@ -17,7 +17,7 @@ step-1
       
 step-2
 ------
-      Create a Database with name "ebook-webapp" in my ssql workbench.
+      Create a Database with name "ebook-webapp" in MySQL server.
                                    -------------
  step-3
  ------

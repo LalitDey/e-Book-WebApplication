@@ -14,7 +14,7 @@ public class DBConnect {
 		try 
 		{
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/ebook-webapp", "root", "Lalit99@");
+			conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/ebook-webapp", "root", "pass");
 		} 
 		catch (Exception e) 
 		{

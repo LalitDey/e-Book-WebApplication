@@ -4,7 +4,7 @@ work.
 
 Software Requirements ::
 -------------------------
-        eclipse - any latest version.
+        Eclipse - any latest version.
         Apache Tomcat Web-server  :- 9.0.x
         JRE - 1.8 or above
         My_Sql WebServer - Mysql WorkBench
